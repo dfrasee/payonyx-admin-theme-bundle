@@ -5,6 +5,7 @@
     "require" : {
     },
    "autoload": {
-        "psr-4": { "Payonyx\\AdminThemeBundle\\" : ""        }
-    }
+        "psr-0": { "Payonyx\\AdminThemeBundle" : "" }
+    }, 
+    "target-dir": "Payonyx/AminThemeBundle"
 }
